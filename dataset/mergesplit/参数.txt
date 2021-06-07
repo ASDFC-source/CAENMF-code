@@ -1,0 +1,1 @@
+ -N 1000 -s 10 -k 15 -maxk 60 -muw 0.3 -minc 10 -split 6 -merge 6

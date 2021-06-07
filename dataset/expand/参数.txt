@@ -1,0 +1,1 @@
+-N 1000 -s 10 -k 30 -maxk 120 -muw 0.2 -minc 30 -maxc 100 -expand 3 -contract 3 -r 0.1
