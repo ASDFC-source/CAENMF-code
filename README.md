@@ -1,1 +1,1 @@
-The code of paper "Dynamic Community Discovery based on Effective Historical Information".
+The code of paper "Dynamic Community Discovery based on Historical Core Area".
