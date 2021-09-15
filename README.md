@@ -1,1 +1,1 @@
-The code of paper "Dynamic Community Discovery based on Historical Core Area".
+The code of paper "Dynamic Community Discovery via Exploring Core Area and Evolutionary Nonnegative Matrix Factorization".
